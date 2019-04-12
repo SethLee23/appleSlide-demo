@@ -25,6 +25,7 @@ body{
 }
 .images{
     display: flex;
+    transition: transform 0.5s;
 }
 .imageWrapper{
     max-width: 920px;
